@@ -1,0 +1,16 @@
+{
+	"name": "pointsr",
+	"version": "1.0.0",
+	"description": "",
+	"main": "index.js",
+	"scripts": {
+		"dev": "node src/server.mjs"
+	},
+	"keywords": [],
+	"author": "Danny Lindquist",
+	"license": "ISC",
+	"dependencies": {
+		"polka": "^1.0.0-next.11",
+		"redis": "^3.0.2"
+	}
+}
